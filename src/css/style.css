@@ -1,0 +1,27 @@
+/* Import */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+/* Tag Customize */
+body{
+    background-color: #fff;
+    color: #293845;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+    padding: 4rem;
+}
+nav{
+    opacity: 95%;
+    padding: 0.25rem;
+    position:sticky;
+    top: 0;
+    overflow: hidden;
+    z-index: 9999;
+}
+
+/* Id Customize */
+
+
+/* Class Customize */
+
+
+/* Media Customize */
