@@ -33,6 +33,7 @@ nav{
     display: flex;
     align-content: space-between;
     height: 525px;
+    width:360px;
 }
 #card:hover{
     scale: 1.02;
